@@ -2,6 +2,7 @@
 Alpha v 0,01
 
 Consists of only one logic. Works only with BTC. 
+SET up: enviroment viariables to api: key, secret. Working on testnet (can be changed to work in real binance enviroment).
 
 To do (not final):
 1. Add more logic when to buy, sell
